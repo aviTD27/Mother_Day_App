@@ -9,14 +9,14 @@ const App = () => {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        padding: "20px",
+        padding: "5px",
         fontFamily: "Arial, sans-serif",
       }}
     >
       <div
         style={{
           background: "white",
-          padding: "40px",
+          padding: "20px",
           borderRadius: "16px",
           maxWidth: "650px",
           width: "100%",
@@ -24,16 +24,16 @@ const App = () => {
           boxShadow: "0 6px 18px rgba(0,0,0,0.15)",
         }}
       >
-        <h1
+        <h2
           style={{
             fontSize: "46px",
             color: "#d6336c",
-            marginBottom: "20px",
+            marginBottom: "10px",
             fontWeight: "bold",
           }}
         >
           Happy Mother's Day ❤️
-        </h1>
+        </h2>
 
         <p
           style={{
@@ -44,17 +44,17 @@ const App = () => {
           }}
         >
           {/* Dear Mom, */}
+          {/* <br />
+          <br /> */}
+          Today is a day dedicated to celebrating you, your love, your
+          strength, your kindness, and the countless sacrifices you have made.
           <br />
-          <br />
-          Today is a day dedicated to celebrating you — your love, your
-          strength, your kindness, and the countless sacrifices you’ve made.
-          <br />
-          <br />
-          Thank you for being my guide, my support, and my biggest inspiration.
+          {/* <br /> */}
+          {/* Thank you for being my guide, my support, and my biggest inspiration.
           Everything I am today is because of you.
           <br />
           <br />
-          You deserve all the love in the world, not just today, but every day.
+          You deserve all the love in the world, not just today, but every day. */}
         </p>
 
         <h3
@@ -65,7 +65,7 @@ const App = () => {
             fontWeight: "normal",
           }}
         >
-          — With love, Avi 💐
+          — With love, Avi 🖤
         </h3>
       </div>
     </div>
